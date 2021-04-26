@@ -1,4 +1,4 @@
-###Task 1
+### Task 1
 
 - Through web-scraping, I have managed to collect 120 542 html-pages (14,94GB)
 - Using BeautifulSoup I have parsed the data, have wrote it to csv-file
